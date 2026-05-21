@@ -1,10 +1,17 @@
-body{
-    background-color: #EEEEEE;
-}
 .splitrowcolors{
     background: linear-gradient(120deg, transparent 50%, #FFB399 50%);
 }
 button{
     border: none;
     border-radius: 4px;
+}
+.secondrow{
+    background-color: #EEEEEE;
+}
+.mycards{
+    border: 1px solid maroon;
+    border-radius: 15px;
+}
+.card-title{
+    color: maroon;
 }
