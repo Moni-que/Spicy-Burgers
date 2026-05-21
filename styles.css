@@ -1,0 +1,10 @@
+body{
+    background-color: #EEEEEE;
+}
+.splitrowcolors{
+    background: linear-gradient(120deg, transparent 50%, #FFB399 50%);
+}
+button{
+    border: none;
+    border-radius: 4px;
+}
